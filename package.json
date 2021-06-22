@@ -1,0 +1,20 @@
+{
+  "name": "simple-rsa",
+  "version": "1.0.0",
+  "description": "simple rsa key encryption demo",
+  "main": "client.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "aonosora",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "big-integer": "^1.6.48"
+  },
+  "devDependencies": {
+    "eslint": "^7.29.0",
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "^2.3.1"
+  }
+}
